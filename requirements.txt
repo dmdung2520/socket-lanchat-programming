@@ -1,0 +1,2 @@
+# Chỉ cần cho giao diện gõ-khi-nhận (Cách A). Mọi phần socket dùng thư viện chuẩn của Python.
+prompt_toolkit>=3.0
